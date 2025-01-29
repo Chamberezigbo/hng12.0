@@ -1,0 +1,3 @@
+//remove node_modules from pushing to git
+
+node_modules/
