@@ -69,6 +69,12 @@ GET /hire/nodejs-developers
 - The `current_datetime` field is dynamically generated in UTC format.
 - Make sure to replace the GitHub URL with the actual repository link.
 
+## Backlinks
+
+- [GitHub Repository](https://github.com/Chamberezigbo/hng12.0)
+- [Developer Portfolio](https://chamberline.netlify.app/)
+- [LinkedIn Profile](https://linkedin.com/in/chambertech)
+
 ## Author
 
 Chamberlain Ezigbo
