@@ -11,7 +11,7 @@ app.get("/hire/nodejs-developers", (req, res) => {
   res.status(200).json({
     email: "chamberezigbo@gmail.com",
     current_datetime,
-    github_url: "<https://github.com/yourusername/your-repo>",
+    github_url: "https://github.com/Chamberezigbo/hng12.0",
   });
 });
 

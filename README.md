@@ -5,7 +5,7 @@ This API provides details about hiring a Node.js developer, including an email c
 ## Base URL
 
 ```
-http://localhost:3000
+https://hng12-0.onrender.com
 ```
 
 ## Endpoints
